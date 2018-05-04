@@ -21,6 +21,8 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
+include MemoryLogr
+
 def foo_bar
   # do some cool stuff...
 end
