@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Will Olson"]
   spec.email         = ["will.olson11@gmail.com"]
 
-  # spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.summary       = %q{Logg memory consumption of ruby methods on *nix operating systems.}
+  spec.homepage      = "https://github.com/frankolson/memory_logr"
+  spec.summary       = %q{Log memory consumption of ruby methods on *nix operating systems.}
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
